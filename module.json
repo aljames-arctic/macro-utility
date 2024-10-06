@@ -15,7 +15,7 @@
     }
   ],
   "esmodules": [
-    "scripts/macro-utility.js"
+    "src/setup.js"
   ],
   "url": "https://github.com/aljames-arctic/macro-utility",
   "manifest": "https://github.com/aljames-arctic/macro-utility/raw/#{VERSION}#/module.json",
