@@ -15,13 +15,13 @@
     }
   ],
   "esmodules": [
-    "scripts/macros-bakana.js"
+    "scripts/macro-utility.js"
   ],
-  "url": "https://github.com/aljames-arctic/macros-bakana",
-  "manifest": "https://github.com/aljames-arctic/macros-bakana/raw/#{VERSION}#/module.json",
-  "download": "https://github.com/aljames-arctic/macros-bakana/raw/#{VERSION}#/module.zip",
-  "changelog": "https://github.com/aljames-arctic/macros-bakana/blob/#{VERSION}#/changelog.md",
-  "bugs": "https://github.com/aljames-arctic/macros-bakana/issues",
+  "url": "https://github.com/aljames-arctic/macro-utility",
+  "manifest": "https://github.com/aljames-arctic/macro-utility/raw/#{VERSION}#/module.json",
+  "download": "https://github.com/aljames-arctic/macro-utility/raw/#{VERSION}#/module.zip",
+  "changelog": "https://github.com/aljames-arctic/macro-utility/blob/#{VERSION}#/changelog.md",
+  "bugs": "https://github.com/aljames-arctic/macro-utility/issues",
   "license": "LICENSE",
   "readme": "README.md",
   "media": [
