@@ -1,0 +1,1 @@
+A collection of Midi-QOL related utility functions to enable the rapid production of quality items, features, and abilities.

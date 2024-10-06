@@ -1,10 +1,33 @@
 {
   "id": "macro-utility",
   "title": "Macro Utility!? Bakana!",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "11",
+    "verified": "12",
+    "maximum": "12"
   },
-  "description": "A collection of useful macro utility functions"
+  "description": "A growing collection of macros and macro utility functions for use with Midi-QOL.",
+  "authors": [
+    {
+      "name": "Bakana Baka",
+      "discord": "bakanabaka"
+    }
+  ],
+  "esmodules": [
+    "scripts/macros-bakana.js"
+  ],
+  "url": "https://github.com/aljames-arctic/macros-bakana",
+  "manifest": "https://github.com/aljames-arctic/macros-bakana/raw/#{VERSION}#/module.json",
+  "download": "https://github.com/aljames-arctic/macros-bakana/raw/#{VERSION}#/module.zip",
+  "changelog": "https://github.com/aljames-arctic/macros-bakana/blob/#{VERSION}#/changelog.md",
+  "bugs": "https://github.com/aljames-arctic/macros-bakana/issues",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "media": [
+    {
+      "type": "icon",
+      "url": ""
+    }
+  ]
 }
